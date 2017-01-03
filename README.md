@@ -1,4 +1,4 @@
 KravianX
 ========
 
-Türkler için sunulmuş bugsuz bir scripttir.
+Türkler için sunulmuş en az buglu bir scripttir.
